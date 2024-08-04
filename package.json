@@ -1,0 +1,25 @@
+{
+  "name": "custom-hooks",
+  "version": "0.0.1",
+  "description": "Reusable custom hooks for you React project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo No test specified"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VazquezAlex/custom-hooks.git"
+  },
+  "keywords": [
+    "custom",
+    "hooks",
+    "hooks",
+    "react"
+  ],
+  "author": "Alejandro Vazquez del Mercado Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VazquezAlex/custom-hooks/issues"
+  },
+  "homepage": "https://github.com/VazquezAlex/custom-hooks#readme"
+}
